@@ -1,0 +1,9 @@
+title = "Cardfight!! Vanguard G: Stride to Victory!!"
+description = "Cardfight!! Vanguard G: Stride to Victory!! is a collectable card game developed and published by FuRyu based off the hit trading card game Cardfight! Vanguard by Bushiroad. This is the 3rd Nintendo 3ds game in the series and includes cards up until the the 4th G Booster Set plus Promo Cards. The game takes you through the story of G as a new cardfighter."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000170500"
+region = "jpn"
+release_date = "2016-01-14"
